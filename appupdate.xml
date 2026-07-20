@@ -1,0 +1,11 @@
+<update>
+  <version>1.0.0</version>
+  <url>https://github.com/Yusuf-Ardiansyah/wifi-router-release/releases/latest/download/app-arm64-v8a-release.apk</url>
+  <changelog>
+      [-] SECURITY BREACH PATCHED
+      [+] Added Ping Latency Optimization
+      [+] Fixed Crash on Android 14
+      [+] Speedtest Server Updated
+      [!] WAJIB UPDATE SEKARANG
+    </changelog>
+</update>
