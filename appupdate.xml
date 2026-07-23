@@ -1,5 +1,5 @@
 <update>
-  <version>1.0.6</version>
+  <version>1.0.7</version>
   <url>https://github.com/Yusuf-Ardiansyah/wifi-router-release/releases/latest/download/app-arm64-v8a-release.apk</url>
   <changelog>
 [+] Integrasi Secure DNS 
@@ -7,6 +7,6 @@
 [+] Real-Traffic Speedtest
 [+] Deep LAN Scanner
 [+] Inject WebView Browser
-[!] SYSTEM OPTIMIZED
+[!] Update Lewat Aplikasi
   </changelog>
 </update>
