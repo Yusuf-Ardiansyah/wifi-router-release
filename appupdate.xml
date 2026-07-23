@@ -2,14 +2,11 @@
   <version>1.0.6</version>
   <url>https://github.com/Yusuf-Ardiansyah/wifi-router-release/releases/latest/download/app-arm64-v8a-release.apk</url>
   <changelog>
-    [+] INITIALIZATION SULTAN CORE v1.0.3
-    [+] Integrasi Secure DNS VPN (Native Kotlin MethodChannel)
-    [+] Advanced Ping Monitor dengan 3D Line Chart & Terminal Log
-    [+] Real-Traffic Speedtest SDK (Custom Analog Gauge)
-    [+] Deep LAN Scanner & Live RX/TX Bandwidth Monitor
-    [+] Inject WebView Browser Admin Router Mode
-    [!] UI/UX Premium Neumorphic Dark Mode & RGB Neon Glow
-    [-] Firebase App Check & C++ (FFI) Anti-Piracy Protocol Aktif
-    [!] SYSTEM OPTIMIZED - WAJIB UPDATE SEKARANG
+    [+] Integrasi Secure DNS 
+    [+] Advanced Ping Monitor
+    [+] Real-Traffic Speedtest
+    [+] Deep LAN Scanner
+    [+] Inject WebView Browser
+    [!] SYSTEM OPTIMIZED
   </changelog>
 </update>
