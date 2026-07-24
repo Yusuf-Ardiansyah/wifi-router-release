@@ -1,12 +1,12 @@
 <update>
-  <version>1.0.8</version>
+  <version>1.0.9</version>
   <url>https://github.com/Yusuf-Ardiansyah/wifi-router-release/releases/latest/download/app-arm64-v8a-release.apk</url>
   <changelog>
+[+] WireGuard Warp+ New
 [+] Deep Scan [PORT] New
 [+] Integrasi Secure DNS 
 [+] Advanced Ping Monitor
 [+] Real-Traffic Speedtest
-[+] Deep LAN Scanner
 [+] Inject WebView Browser
   </changelog>
 </update>
