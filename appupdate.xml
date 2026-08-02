@@ -1,9 +1,9 @@
 <update>
-  <version>1.0.11</version>
+  <version>1.0.12</version>
   <url>https://github.com/Yusuf-Ardiansyah/wifi-router-release/releases/latest/download/app-arm64-v8a-release.apk</url>
   <changelog>
+[+] Bug Fixed V2ray
 [+] VPN V2ray / Vless New
-[+] WireGuard [VPN] New
 [+] Deep Scan [PORT] New
 [+] Integrasi Secure DNS 
 [+] Advanced Ping Monitor
